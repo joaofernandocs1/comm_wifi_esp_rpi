@@ -29,8 +29,8 @@
 //#define CAMERA_MODEL_M5STACK_WIDE
 #define CAMERA_MODEL_AI_THINKER
 
-const char* ssid = "LIVE TIM_DAED_2G"; //LIVE TIM_DAED_2G//Roda_Conveniencia
-const char* password = "joaofernando";  //joaofernando//roda2019
+const char* ssid = "myssid"; //LIVE TIM_DAED_2G//Roda_Conveniencia
+const char* password = "mypassword";  //joaofernando//roda2019
  
 AsyncWebServer server(80);
  
